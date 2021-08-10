@@ -1,0 +1,8 @@
+body, #notes{
+    background-color: rgb(227, 231, 226);
+    align-items: center;
+}
+.card {
+    width: 70vw;
+    margin-left: 5%;
+}
